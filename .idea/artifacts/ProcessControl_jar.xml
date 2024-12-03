@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ProcessControl:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/ProcessControl_jar</output-path>
-    <root id="archive" name="ProcessControl.jar">
-      <element id="module-output" name="ProcessControl" />
-    </root>
-  </artifact>
-</component>
